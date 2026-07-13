@@ -1,0 +1,37 @@
+# --- Python bytecode ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Distribution / packaging ---
+*.egg-info/
+dist/
+build/
+*.egg
+MANIFEST
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Results artefacts (track all results including plots) ---
+# results/*.png are tracked intentionally
+
+# --- OS / editor artefacts ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# --- Testing / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/

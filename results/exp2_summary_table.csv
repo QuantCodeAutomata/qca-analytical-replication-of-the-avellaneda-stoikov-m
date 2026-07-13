@@ -1,0 +1,7 @@
+gamma,Strategy,Spread (liq),Profit,std(Profit),Final q,std(Final q)
+0.1,Inventory,1.29,65.01,6.77,-0.03,3.01
+0.1,Symmetric,1.29,68.65,12.47,-0.2,8.41
+0.01,Inventory,1.33,68.7,9.12,-0.16,5.22
+0.01,Symmetric,1.33,69.04,13.11,-0.24,8.72
+0.5,Inventory,1.15,48.64,5.83,0.01,2.0
+0.5,Symmetric,1.15,58.86,11.11,0.09,6.99
